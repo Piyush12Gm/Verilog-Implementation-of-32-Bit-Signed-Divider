@@ -1,1 +1,1 @@
-# -Verilog-Implementation-of-32-Bit-Signed-Divider
+# Verilog-Implementation-of-32-Bit-Signed-Divider
