@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module testsdiv;
   parameter N = 12;
   reg[31:0] dividendarr[1:N];
